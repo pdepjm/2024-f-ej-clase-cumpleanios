@@ -1,1 +1,1 @@
-Ejercicio de la clase del 18/04 donde vimos orden superior y composición
+Ejercicio de la clase del 18/04 donde vimos orden superior y composición. Para ver el enunciado segui [este link](https://docs.google.com/document/d/1fiwFHxrfKRtdPdK3iMCJgnzq5kDXppnkPha-QI9y5Xk/edit?usp=sharing)
