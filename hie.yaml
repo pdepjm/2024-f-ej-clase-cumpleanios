@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "ej-clase:lib"
+
+    - path: "./test"
+      component: "ej-clase:test:ej-clase-test"
